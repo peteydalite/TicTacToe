@@ -8,6 +8,7 @@ public class TicTacToePlay {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		
+		//Initial prompts.. could probably store this in a method
 		System.out.print("Please enter 1 to play against computer or 2 for two players: ");
 		String userInput = "";
 		int numPlayer = 0;
