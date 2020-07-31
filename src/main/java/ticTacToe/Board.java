@@ -1,5 +1,5 @@
 package ticTacToe;
 
-public class Board {
-
+public interface Board {
+	public void getBoard();
 }
