@@ -39,6 +39,7 @@ public class GameBoard implements Board {
 			}
 			newLineRef+=1;
 		}
+		System.out.println();
 	}
 		
 }
