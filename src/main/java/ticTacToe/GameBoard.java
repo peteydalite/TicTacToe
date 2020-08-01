@@ -41,5 +41,9 @@ public class GameBoard implements Board {
 		}
 		System.out.println();
 	}
+	
+	public String[] getBoardArr() {
+		return this.board;
+	}
 		
 }
